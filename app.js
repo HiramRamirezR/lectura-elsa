@@ -17,7 +17,7 @@ boton.addEventListener('click', () => {
 
   audio.play();
 
-  texto.innerHTML = `${consonante1.toUpperCase()}${vocal1}${consonante2}${vocal2}`;
+  texto.innerHTML = `${consonante1}${vocal1}${consonante2}${vocal2}`;
 })
 
 boton2.addEventListener('click', () => {
