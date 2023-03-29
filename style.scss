@@ -4,14 +4,24 @@ body {
   font-size: 80px;
   color: rgb(14, 79, 137);
 }
+.contador {
+  position: absolute;
+  top: 30px;
+  right: 30px;
+  background-color: rgb(46, 46, 46);
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
 
 #cuenta {
-  font-size: 40px;
-  color: rgb(20, 116, 71);
+  font-size: 25px;
+  color: rgb(255, 255, 255);
 }
 
 img {
   width: 200px;
+  border-radius: 10px;
 }
 
 .btn {
