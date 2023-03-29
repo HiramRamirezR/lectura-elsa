@@ -1,5 +1,5 @@
 body {
-  background-color: #7bc6df;
+  background-color: #d0d0d0;
   font-family: 'Dancing Script', cursive;
   font-size: 80px;
   color: #0e4f89;
@@ -11,6 +11,10 @@ body {
 }
 
 img {
-  max-width: 300px;
+  width: 200px;
+}
+
+.btn {
+  font-size: 25px;
 }
 /*# sourceMappingURL=style.css.map */
